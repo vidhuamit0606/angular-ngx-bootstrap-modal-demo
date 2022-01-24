@@ -1,1 +1,2 @@
 # angular-ngx-bootstrap-modal-demo
+A angular-cli project based on rxjs, jquery, core-js, zone.js, bootstrap, popper.js, rxjs-compat, @angular/core, ngx-bootstrap, @angular/forms, @angular/common, @angular/router, @angular/compiler, @angular/platform-browser and @angular/platform-browser-dynamic.
